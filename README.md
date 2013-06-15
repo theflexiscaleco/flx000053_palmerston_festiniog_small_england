@@ -17,5 +17,9 @@ The data comprises a point cloud and 93 37 Megapixel images  of Palmerston, the 
 The data was captured on February 4th 2013. The point cloud data was captured using a Surphaser Laser Scanner. The photographs were captured using a Nikon D800 with a variety of manual lenses.
 
 
+Footnote: We were helped by the Festiniog Railway in capturing this data. We have committed to donating to the Festiniog Railway for every commercial kit we make from this data. If you use the data commercially we'd encourage you to do the same.
+
+The Festiniog Railway is raising money to restore [Welsh Pony](http://festrail.co.uk/welshpony/), a larger sister engine to Palmerston and we would encourage you to [donate](http://festrail.co.uk/welshpony/) to this project.
+
 
 

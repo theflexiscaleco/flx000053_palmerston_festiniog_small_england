@@ -6,6 +6,8 @@ Open data from The Flexiscale Company
 
 Release: 1.0
 
+Release date: 2013-06-13
+
 Title: Palmerston - Festiniog Railway Number 4. Built by George England 1864.
 
 Description: This git repository contains data collected by The Flexiscale Company and their contractor Digital Surveys. 
